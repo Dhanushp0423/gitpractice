@@ -1,7 +1,0 @@
-newly created file this is.
-
-into 
-
-now change this text , again using same command line 
--> git pull
-
